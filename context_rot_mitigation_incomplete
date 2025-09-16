@@ -4,15 +4,15 @@ Your task is to create a concise, focused summary that captures the essential co
 
 **IMPORTANT**: Do not include full conversation transcripts, message-by-message breakdowns, or lengthy chronological analyses. Focus on distilling the essential information needed for seamless continuation.
 
-Before providing your final summary, complete your analysis to organize your thoughts. Under absolutely no circumstances should you output your <analysis>. This is only for your own reasoning and internal scratch pad.
+Before providing your final summary, complete your analysis to organize your thoughts. Under absolutely no circumstances should you output your Analysis. This is only for your own reasoning and internal scratch pad.
 
-<analysis>
+Analysis:
 - What is the user's main objective?
 - What key work has been completed?
 - What specific details are essential to preserve?
 - What is the current state/status?
 - What comes next?
-</analysis>
+
 
 Your summary should include the following sections:
 
